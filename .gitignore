@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+target/*
+.classpath
+.settings
+.project
+.gitignore.swp
